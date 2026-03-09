@@ -52,7 +52,7 @@ The main objectives of this project include the following:
 - To analyze the proportion of patients admitted versus those discharged.
 - To examine demographic characteristics such as patient age and gender distribution.
 - To understand which hospital departments receive the highest number of referrals.
-- To present the findings using clear and interactive visualizations in Power BI.
+- To present the findings using clear and interactive visualizations in Excel.
 
 🔍 **Scope:**
 
